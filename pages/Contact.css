@@ -1,0 +1,47 @@
+.my-form {
+    font-family: Arial, sans-serif;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.my-form h1 {
+    text-align: center;
+}
+
+.my-form div {
+    margin-bottom: 15px;
+}
+
+.my-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.my-form input,
+.my-form textarea {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.my-form button {
+    background-color: #4CAF50;
+    color: white;
+    margin-top: 10px;
+    width: 400px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.my-form button:hover {
+    background-color: #45a049;
+}
+
+.txt label {
+    display: block;
+    margin-bottom: 5px;
+}
